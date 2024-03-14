@@ -1,2 +1,2 @@
-# tercer-repositorio
- chingas a tu puta madre si no funcionas hpta
+# python-_codigos
+codigos python 
